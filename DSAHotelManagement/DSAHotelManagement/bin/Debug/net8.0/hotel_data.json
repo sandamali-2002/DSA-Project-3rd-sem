@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Date": 0,
+    "Name": "subha",
+    "RoomType": "Single"
+  },
+  {
+    "Id": 2,
+    "Date": 0,
+    "Name": "Hima",
+    "RoomType": "Double"
+  },
+  {
+    "Id": 4,
+    "Date": 0,
+    "Name": "melani",
+    "RoomType": "double"
+  },
+  {
+    "Id": 3,
+    "Date": 20250321,
+    "Name": "Sandamali",
+    "RoomType": "Twin"
+  }
+]

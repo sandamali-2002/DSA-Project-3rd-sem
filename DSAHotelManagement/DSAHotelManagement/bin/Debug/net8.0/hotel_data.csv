@@ -1,0 +1,23 @@
+Id,Date,Name,RoomType,IsAvailable
+1,01/01/0001 00:00:00,,Double,True
+3,01/01/0001 00:00:00,,Single,True
+5,01/01/0001 00:00:00,,Twin,True
+6,01/01/0001 00:00:00,,Double,True
+7,01/01/0001 00:00:00,,single,True
+8,01/01/0001 00:00:00,,Double,True
+12,01/01/0001 00:00:00,,Double,True
+13,01/01/0001 00:00:00,,Single,True
+16,01/01/0001 00:00:00,,Twin,True
+17,01/01/0001 00:00:00,,Double,True
+18,01/01/0001 00:00:00,,single,True
+19,01/01/0001 00:00:00,,Double,True
+2,04/15/2025 00:00:00,A.A Perera,single,False
+14,04/15/2025 00:00:00,A.Jayasinhe,Double,False
+4,11/05/2025 00:00:00,Samaranayake,single,False
+9,11/05/2025 00:00:00,L.T.Senanayaka,Twin,False
+10,11/05/2025 00:00:00,R.Hettiarachchi,single,False
+11,11/05/2025 00:00:00,Jayantha.K,Double,False
+15,11/05/2025 00:00:00,B.U.Jayaneththi,single,False
+20,11/05/2025 00:00:00,R.Godaliyadda,Twin,False
+21,11/05/2025 00:00:00,R.Hettiarachchi,single,False
+22,11/05/2025 00:00:00,Jayantha.K,Double,False
